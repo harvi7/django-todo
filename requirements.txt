@@ -1,4 +1,4 @@
-Django==3.0.4
+Django==3.0.7
 appdirs==1.4.3
 # apturl==0.5.2
 asgiref==3.2.5
